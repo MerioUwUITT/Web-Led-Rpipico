@@ -1,0 +1,2 @@
+SSID = "iPhone (68)"
+PASSWORD = "123321456"
